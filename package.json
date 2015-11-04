@@ -22,5 +22,8 @@
     "babel-core": "^6.0.20",
     "babel-loader": "^6.0.1",
     "webpack": "^1.12.2"
+  },
+  "dependencies": {
+    "react": "^0.14.2"
   }
 }
