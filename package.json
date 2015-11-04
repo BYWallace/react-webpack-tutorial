@@ -4,7 +4,7 @@
   "description": "https://robots.thoughtbot.com/setting-up-webpack-for-react-and-hot-module-replacement",
   "main": "index.js",
   "scripts": {
-    "test": "none"
+    "start": "webpack-dev-server --hot --inline"
   },
   "repository": {
     "type": "git",
