@@ -17,5 +17,8 @@
   ],
   "author": "Brett Wallace",
   "license": "MIT",
-  "private": "True"
+  "private": "True",
+  "devDependencies": {
+    "webpack": "^1.12.2"
+  }
 }
