@@ -1,0 +1,21 @@
+{
+  "name": "react-webpack-project",
+  "version": "1.0.0",
+  "description": "https://robots.thoughtbot.com/setting-up-webpack-for-react-and-hot-module-replacement",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NA"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "webpack"
+  ],
+  "author": "Brett Wallace",
+  "license": "MIT",
+  "private": "True"
+}
